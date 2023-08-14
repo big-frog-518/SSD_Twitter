@@ -1,4 +1,11 @@
 # SSP_Twitter
 our project
 
-please  npm install express ,cors, mongoose, jsonwebtoken when you are first download 
+please  execute blow when you are first download 
+npm init -y
+npm init express
+npm init cors
+npm init mongoose
+npm init jsonwebtoken
+
+noted: don't upload any of the modules things
