@@ -1,3 +1,3 @@
 # SSD_Twitter
 our project
-please install node express , mongoose when you are first download 
+please install node express ,cors, mongoose when you are first download 
