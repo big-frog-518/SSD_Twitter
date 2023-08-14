@@ -1,3 +1,3 @@
-# SSP_Twitter
+# SSD_Twitter
 our project
-please install node express ,cors, mongoose when you are first download 
+please  npm install express ,cors, mongoose, jsonwebtoken when you are first download 
